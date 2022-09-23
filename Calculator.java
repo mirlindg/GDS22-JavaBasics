@@ -1,7 +1,7 @@
 public class Calculator {
     public static void main(String[] args) {
-        byte zahlEins = 20;
-        byte zahlZwei = 3;
+        int zahlEins = 20;
+        int zahlZwei = 3;
         int summe;
         String calculatorName = "Taschenrechner";
 
